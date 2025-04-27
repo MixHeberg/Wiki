@@ -15,7 +15,7 @@ Voici quelques tutoriels pour Asseto Corsa Server Manager :
 
 ### Avoir plusieurs serveurs
 
-Les offres Asseto Corsa de MixHeberg sont dimensionné pour vous permettre d'avoir plusieurs serveurs même avec l'offre la plus basse.
+Les offres Asseto Corsa de MixHeberg sont dimensionnées pour vous permettre d'avoir plusieurs serveurs même avec l'offre la plus basse.
 
 | Offre   | Ports fournis | Serveurs possible |
 | ------- | ------------- | ----------------- |

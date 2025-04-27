@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MixHeberg, Inc. Fait avec ❤️ (et Docusaurus.)`,
+        copyright: `Copyright © ${new Date().getFullYear()} MixHeberg,. Fait avec ❤️ (et Docusaurus.)`,
       },
       prism: {
         theme: prismThemes.github,
